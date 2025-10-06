@@ -24,7 +24,7 @@ Create a Django REST API for a blog application with token authentication.
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.11 or higher
 - Text editor or IDE
 
 Start with [Step 1: Project Setup](step-01-project-setup.md).
